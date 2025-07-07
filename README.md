@@ -1,4 +1,5 @@
-## Hi 👋 I am Smit Satani
+## Hi 👋 I am Smit Satani                                                                   ![Profile Views](https://komarev.com/ghpvc/?username=SmitSatani&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <!--
 **satanismit/satanismit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
